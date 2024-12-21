@@ -1,0 +1,5 @@
+com\mycompany\empresaswebservice\Empresa.class
+com\mycompany\empresaswebservice\JakartaRestConfiguration.class
+com\mycompany\empresaswebservice\resources\EmpresaResource.class
+com\mycompany\empresaswebservice\EmpresaDAO.class
+com\mycompany\empresaswebservice\resources\JakartaEE8Resource.class
